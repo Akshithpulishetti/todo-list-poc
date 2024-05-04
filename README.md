@@ -4,7 +4,7 @@ This is a simple Todo List project developed using HTML, CSS, and JavaScript. It
 
 ## Demo
 
-You can view a live demo of the Todo List [here](https://your-todolist-demo-url.com).
+You can view a live demo of the Todo List [here](https://todo-list-poc.netlify.app/).
 
 ![todo_list_screenshot](https://github.com/Akshithpulishetti/todo-list-poc/assets/167102177/84c26970-2919-4a18-92ef-4ca867ad191c)
 
